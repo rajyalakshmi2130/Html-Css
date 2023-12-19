@@ -1,0 +1,14 @@
+table, td{
+    border: 1px solid black
+}
+table{
+    border-collapse: collapse;
+    width: 40%;
+    height: 154px;
+}
+.styledTd{
+    background-color: lightblue;
+    font-weight: 600;
+}    
+
+
